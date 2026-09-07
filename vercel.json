@@ -1,0 +1,6 @@
+{
+  "redirects": [
+    { "source": "/coming-soon-events", "destination": "/", "permanent": true },
+    { "source": "/coming-soon-events.html", "destination": "/", "permanent": true }
+  ]
+}
